@@ -14,7 +14,7 @@
 ### Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,typescript,java,css,bash,cpp,figma,postgres,webpack,angular,spring&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,java,css,bash,cpp,spring&theme=dark"/>
   </a>
     <img src="https://github.com/raonieqr/RaoniEQR/assets/57332018/d59064a6-2bdc-4dbb-92be-ce748d5a7db5" width="5%" height="10%"/>
     <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="15%"/>
@@ -22,7 +22,7 @@
 
 ### 42 Stats
 <div>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="rasilva's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="kneves 42 stats" /></a>
 </div>
 
 
