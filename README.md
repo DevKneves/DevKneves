@@ -1,5 +1,8 @@
 ## <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Kauã Neves
 <div>
+ <img src="https://github.com/sori0732/gif-code/blob/48792cc49d633b5219833d9c79ba6db4069dd741/kneves.gif" width="300px" heigth="170px">
+</div>
+<div>
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="100%" height="09">
 
 <br>I'm a student at [42|Rio](https://42.rio), Software Engineer School that have [42 campus in 29 countries](https://www.42network.org/42-schools/) <a href="https://www.animatedimages.org/cat-world-globes-1667.htm"><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0039.gif" border="0" alt="animated-world-globe-image-0039" whidth="40" height="28" /></a>
