@@ -1,4 +1,5 @@
-## <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Kauã Neves
+## About me
+<a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Kauã Neves
 <div align="center">
  <img src="https://github.com/DevKneves/gif-code/blob/main/Kneves%20icon.jpeg" width="300px" heigth="170px">
 </div>
