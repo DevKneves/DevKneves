@@ -1,6 +1,6 @@
 ## <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Kauã Neves
 <div align="center">
- <img src="https://github.com/DevKneves/gif-code/blob/48792cc49d633b5219833d9c79ba6db4069dd741/kneves.gif" width="300px" heigth="170px">
+ <img src="https://github.com/DevKneves/gif-code/blob/main/kneves.gif" width="300px" heigth="170px">
 </div>
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="100%" height="09">
 
