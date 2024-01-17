@@ -24,7 +24,7 @@
 
 ### 42 Stats
 <div>
-<a href="https://github.com/Devkneves"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="kneves 42 stats" /></a>
+<a href="https://github.com/DevKneves"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="kneves 42 stats" /></a>
 </div>
 
 
