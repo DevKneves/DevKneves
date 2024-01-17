@@ -34,5 +34,5 @@
  </div>
  <br>
  <div>
-  <a href=""http://www.github.com/DevKneves""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sori0732&langs_count=8&layout=compact&hide=css,objective-c,html&hide_border=true&custom_title=Top%20%Languages&theme=gruvbox"/></a>
+  <a href="http://www.github.com/DevKneves"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sori0732&langs_count=8&layout=compact&hide=css,objective-c,html&hide_border=true&custom_title=Top%20%Languages&theme=gruvbox"/></a>
  </div>
