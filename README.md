@@ -17,7 +17,7 @@
 ### Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c,vim,html,javascript,css,bash,cpp,mongo,cs"/>
+    <img src="https://skillicons.dev/icons?i=git,cs,java,c,vim,bash,cpp,mongo"/>
   </a>
 </p>
 
