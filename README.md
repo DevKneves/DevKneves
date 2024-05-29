@@ -32,7 +32,7 @@ Python       7 mins          ▒░░░░░░░░░░░░░░░░
 ### Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,react,java,c,vim,bash,cpp,mysql,mongo"/>
+    <img src="https://skillicons.dev/icons?i=git,cs,react,java,c,vim,bash,cpp,mysql,mongo,vscode,visualstudio"/>
   </a>
 </p>
 
