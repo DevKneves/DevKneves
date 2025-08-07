@@ -46,7 +46,7 @@ Dockerfile          505 bytes |-------------------------------------------------
 ### Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,react,windows,linux,spring,c,vim,bash,cpp,mysql,mongo,vscode,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=git,python,java,windows,linux,spring,c,vim,bash,cpp,mysql,mongo,vscode,visualstudio"/>
   </a>
 </p>
 
