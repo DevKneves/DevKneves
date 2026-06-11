@@ -8,7 +8,8 @@
 
 <br>I'm a student at [ENCE](https://ence.ibge.gov.br/), the National School of Statistical Sciences, focused on statistics and data science, and I previously studied at [42|Rio](https://42.rio), a Software Engineering school that is part of the global [42 Network](https://www.42network.org/42-schools/) present in 29 countries. <a href="https://www.animatedimages.org/cat-world-globes-1667.htm"><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0039.gif" border="0" alt="animated-world-globe-image-0039" whidth="40" height="28" /></a>
 * 📍 I live in Rio de Janeiro, Brazil
-* 📚 I'm learning some technologies to become a Data Science
+* 📚 I'm learning some technologies to become a Data Engineering
+
 * ✉️ Contact me at: [kauanevestrab@gmail.com](mailto:kauanevestrab@gmail.com)
 <img src="https://github.com/DevKneves/gif-code/blob/main/PurpleDiv.gif" width="100%" height="09">
  
